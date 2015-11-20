@@ -9,7 +9,7 @@
 
 ##### The course_project.rmd file is the knitr file that creates both the html output and the markdown file (md) 
 ##### The html file is the official submission for the project.  However, though I tried innumberable attemps I could not get the gh-pages option to work.
-##### Folks can reveiw the html file - but it is hard to read because I could not get the *gh-pages* to work
+##### Folks can reveiw the html file - but it is hard to read because it is not compiled as I could not get the *gh-pages* to work
 ##### So to make grading easier please look at the markdown file version  **course_project.md**
 ###Many thanks!
 
